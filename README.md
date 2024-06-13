@@ -1,6 +1,7 @@
-(https://i.ibb.co/k9Hndh4/lautaro-andreani-xk-Baqlcqeb4-unsplash.jpg)
+![I am Web developer](https://i.ibb.co/k9Hndh4/lautaro-andreani-xk-Baqlcqeb4-unsplash.jpg)
 <h1 align="center">Hi This is Ruhul</h1>
 <h3 align="center">A passionate frontend developer</h3>
+I am a Web Developer, actively working on Frontend development. Technologies and Ideas are the energy resource that charges me to dream for the future.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdruhulamin7" alt="mdruhulamin7" /></a> </p>
 
