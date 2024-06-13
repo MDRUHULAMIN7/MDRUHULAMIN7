@@ -1,6 +1,7 @@
+(https://i.ibb.co/k9Hndh4/lautaro-andreani-xk-Baqlcqeb4-unsplash.jpg)
 ## Hello this is Ruhul
 #### I am Web developer
-![I am Web developer](https://i.ibb.co/k9Hndh4/lautaro-andreani-xk-Baqlcqeb4-unsplash.jpg)
+![I am Web developer]
 
 I am a Web Developer, actively working on Frontend development. Technologies and Ideas are the energy resource that charges me to dream for the future.
 
