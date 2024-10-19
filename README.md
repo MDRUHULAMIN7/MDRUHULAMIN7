@@ -57,7 +57,15 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
   </a>
 <a href="https://cloudinary.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/cloudinary/cloudinary-icon.svg" 
+  <img src="https://res.cloudinary.com/dpomtzref/image/upload/v1729327558/44492097577_xxdb3t.png" 
+       alt="Cloudinary Logo" width="40" height="40" loading="lazy" />
+</a>
+<a href="https://cloudinary.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://res.cloudinary.com/dpomtzref/image/upload/v1729327692/download-removebg-preview_1_1_aouja0.png" 
+       alt="Cloudinary Logo" width="40" height="40" loading="lazy" />
+</a>
+<a href="https://cloudinary.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://res.cloudinary.com/dpomtzref/image/upload/v1729327693/download-removebg-preview_2_pcrsdz.png" 
        alt="Cloudinary Logo" width="40" height="40" loading="lazy" />
 </a>
 
