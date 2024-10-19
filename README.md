@@ -43,52 +43,43 @@
 ---
 
 ## 🛠️ Languages & Tools  
-<p align="center">
+<p align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" />
   </a>
   <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="60" height="60" />
   </a>
   <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="60" height="60" />
   </a>
   <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="60" height="60" />
   </a>
-<a href="https://cloudinary.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://res.cloudinary.com/dpomtzref/image/upload/v1729327558/44492097577_xxdb3t.png" 
-       alt="Cloudinary Logo" width="40" height="40" loading="lazy" />
-</a>
-<a href="https://cloudinary.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://res.cloudinary.com/dpomtzref/image/upload/v1729327692/download-removebg-preview_1_1_aouja0.png" 
-       alt="Cloudinary Logo" width="40" height="40" loading="lazy" />
-</a>
-<a href="https://cloudinary.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://res.cloudinary.com/dpomtzref/image/upload/v1729327693/download-removebg-preview_2_pcrsdz.png" 
-       alt="Cloudinary Logo" width="40" height="40" loading="lazy" />
-</a>
-
-<a href="https://zegocloud.com/" target="_blank">
-  <img src="https://res.cloudinary.com/dpomtzref/image/upload/v1729327387/png_vviwyd.png" alt="ZEGOCLOUD" width="40" height="40" />
-</a>
-
+  <a href="https://cloudinary.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://res.cloudinary.com/dpomtzref/image/upload/v1729327693/download-removebg-preview_2_pcrsdz.png" 
+         alt="Cloudinary" width="60" height="60" />
+  </a>
+  <a href="https://zegocloud.com/" target="_blank">
+    <img src="https://res.cloudinary.com/dpomtzref/image/upload/v1729327387/png_vviwyd.png" alt="ZEGOCLOUD" width="60" height="60" />
+  </a>
   <a href="https://redux.js.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="60" height="60" />
   </a>
   <a href="https://expressjs.com" target="_blank">
-    <img src="https://res.cloudinary.com/dpomtzref/image/upload/v1729327814/download_1_q3np2l.png" alt="Express" width="40" height="40" />
+    <img src="https://res.cloudinary.com/dpomtzref/image/upload/v1729327814/download_1_q3np2l.png" alt="Express" width="60" height="60" />
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="60" height="60" />
   </a>
   <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="60" height="60" />
   </a>
   <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="60" height="60" />
   </a>
 </p>
+
 
 ---
 
