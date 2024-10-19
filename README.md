@@ -56,12 +56,15 @@
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
   </a>
-  <a href="https://cloudinary.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/cloudinary/cloudinary-icon.svg" alt="Cloudinary" width="40" height="40" />
-  </a>
-  <a href="https://zegocloud.com/" target="_blank">
-    <img src="https://www.zegocloud.com/assets/favicon/favicon-96x96.png" alt="ZEGOCLOUD" width="40" height="40" />
-  </a>
+<a href="https://cloudinary.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/cloudinary/cloudinary-icon.svg" 
+       alt="Cloudinary Logo" width="40" height="40" loading="lazy" />
+</a>
+
+<a href="https://zegocloud.com/" target="_blank">
+  <img src="https://www.zegocloud.com/assets/favicon/favicon-96x96.png" alt="ZEGOCLOUD" width="40" height="40" />
+</a>
+
   <a href="https://redux.js.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" />
   </a>
