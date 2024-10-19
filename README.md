@@ -62,7 +62,7 @@
 </a>
 
 <a href="https://zegocloud.com/" target="_blank">
-  <img src="https://www.zegocloud.com/assets/favicon/favicon-96x96.png" alt="ZEGOCLOUD" width="40" height="40" />
+  <img src="https://res.cloudinary.com/dpomtzref/image/upload/v1729327387/png_vviwyd.png" alt="ZEGOCLOUD" width="40" height="40" />
 </a>
 
   <a href="https://redux.js.org/" target="_blank">
