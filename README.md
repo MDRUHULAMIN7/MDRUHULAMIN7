@@ -86,8 +86,9 @@
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mdruhulamin7&show_icons=true&theme=blueberry&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=mdruhulamin7&theme=blueberry&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=mdruhulamin7&theme=blueberry&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
+
 
 
 
