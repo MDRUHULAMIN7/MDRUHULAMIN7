@@ -88,15 +88,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mdruhulamin7&show_icons=true&theme=blueberry&hide_border=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdruhulamin7&theme=blueberry&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
-##git
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdruhulamin7&layout=compact&theme=blueberry&hide_border=true" width="48%" />
 </p>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdruhulamin7&show_icons=true&layout=compact&theme=blueberry&hide_border=true" alt="Top Languages" />
-</p>
+
 
 ---
 
