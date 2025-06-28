@@ -42,41 +42,41 @@
 
 ---
 
-## 🛠️ Languages & Tools  
-<p align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+<h2 align="center">🛠️ Languages & Tools</h2>
+
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin: 10px; transition: transform 0.3s;" />
   </a>
   <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="60" height="60" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" style="margin: 10px;" />
   </a>
   <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="60" height="60" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50" style="margin: 10px;" />
   </a>
   <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="60" height="60" />
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50" style="margin: 10px;" />
   </a>
-  <a href="https://cloudinary.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://res.cloudinary.com/dpomtzref/image/upload/v1729327693/download-removebg-preview_2_pcrsdz.png" 
-         alt="Cloudinary" width="60" height="60" />
+  <a href="https://cloudinary.com/" target="_blank">
+    <img src="https://res.cloudinary.com/dpomtzref/image/upload/v1729327693/download-removebg-preview_2_pcrsdz.png" alt="Cloudinary" width="50" height="50" style="margin: 10px;" />
   </a>
   <a href="https://zegocloud.com/" target="_blank">
-    <img src="https://res.cloudinary.com/dpomtzref/image/upload/v1729327387/png_vviwyd.png" alt="ZEGOCLOUD" width="60" height="60" />
+    <img src="https://res.cloudinary.com/dpomtzref/image/upload/v1729327387/png_vviwyd.png" alt="ZEGOCLOUD" width="50" height="50" style="margin: 10px;" />
   </a>
   <a href="https://redux.js.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="60" height="60" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="50" height="50" style="margin: 10px;" />
   </a>
   <a href="https://expressjs.com" target="_blank">
-    <img src="https://res.cloudinary.com/dpomtzref/image/upload/v1729327814/download_1_q3np2l.png" alt="Express" width="60" height="60" />
+    <img src="https://res.cloudinary.com/dpomtzref/image/upload/v1729327814/download_1_q3np2l.png" alt="Express" width="50" height="50" style="margin: 10px;" />
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="60" height="60" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50" style="margin: 10px;" />
   </a>
   <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="60" height="60" />
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50" style="margin: 10px;" />
   </a>
   <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="60" height="60" />
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50" style="margin: 10px;" />
   </a>
 </p>
 
@@ -85,11 +85,10 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdruhulamin7&show_icons=true&theme=blueberry&hide_border=true" width="48%" />
- <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mdruhulamin7&theme=blueberry&hide_border=true" alt="GitHub Streak" width="48%" />
-
-
+  <img src="https://github-readme-stats.vercel.app/api?username=mdruhulamin7&show_icons=true&theme=blueberry&hide_border=true" width="48%" style="height: 200px;" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mdruhulamin7&theme=blueberry&hide_border=true" alt="GitHub Streak" width="48%" style="height: 200px; padding-top:20px;" />
 </p>
+
 
 
 
