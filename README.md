@@ -41,44 +41,41 @@
 </p>
 
 ---
-
 <h2 align="center">🛠️ Languages & Tools</h2>
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin: 10px; transition: transform 0.3s;" />
+    <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" width="80" style="margin: 15px;" />
   </a>
   <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" style="margin: 10px;" />
+    <img src="https://skillicons.dev/icons?i=react" title="React" width="80" style="margin: 15px;" />
   </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50" style="margin: 10px;" />
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" width="80" style="margin: 15px;" />
   </a>
   <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50" style="margin: 10px;" />
-  </a>
-  <a href="https://cloudinary.com/" target="_blank">
-    <img src="https://res.cloudinary.com/dpomtzref/image/upload/v1729327693/download-removebg-preview_2_pcrsdz.png" alt="Cloudinary" width="50" height="50" style="margin: 10px;" />
-  </a>
-  <a href="https://zegocloud.com/" target="_blank">
-    <img src="https://res.cloudinary.com/dpomtzref/image/upload/v1729327387/png_vviwyd.png" alt="ZEGOCLOUD" width="50" height="50" style="margin: 10px;" />
+    <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" width="80" style="margin: 15px;" />
   </a>
   <a href="https://redux.js.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="50" height="50" style="margin: 10px;" />
+    <img src="https://skillicons.dev/icons?i=redux" title="Redux" width="80" style="margin: 15px;" />
   </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://res.cloudinary.com/dpomtzref/image/upload/v1729327814/download_1_q3np2l.png" alt="Express" width="50" height="50" style="margin: 10px;" />
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=express" title="Express.js" width="80" style="margin: 15px;" />
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50" style="margin: 10px;" />
+    <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" width="80" style="margin: 15px;" />
   </a>
   <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50" style="margin: 10px;" />
+    <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" width="80" style="margin: 15px;" />
+  </a>
+  <a href="https://cloudinary.com/" target="_blank">
+    <img src="https://res.cloudinary.com/dpomtzref/image/upload/v1729327693/download-removebg-preview_2_pcrsdz.png" title="Cloudinary" width="80" style="margin: 15px;" />
   </a>
   <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50" style="margin: 10px;" />
+    <img src="https://skillicons.dev/icons?i=figma" title="Figma" width="80" style="margin: 15px;" />
   </a>
 </p>
+
 
 
 ---
