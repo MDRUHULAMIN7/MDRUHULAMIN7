@@ -1,7 +1,7 @@
 <!-- Header Section -->
 <img src="https://res.cloudinary.com/dpomtzref/image/upload/v1729272525/g2psb8j0gtojhitkregc.png" alt="Cover Image" width="100%" />
 
-<h1 align="center">👋 Hi, Iam Ruhul Amin </h1>
+<h1 align="center">👋 Hi, Iam Ruhul Amin</h1>
 <h3 align="center">A Passionate Frontend Developer & Tech Enthusiasts </h3>
 
 <p align="center">
