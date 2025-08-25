@@ -14,7 +14,7 @@
 ---
 
 ### 🌱 Currently Working
--<a href="https://sparktech.agency/">SparkTech Agency</a>
+<a href="https://sparktech.agency/">SparkTech Agency</a> as a Frontend Developer
 ### 🌱 Currently Learning  
 - **Next.js**, **Advanced JavaScript**, **Frontend Tools & Libraries**  
 
