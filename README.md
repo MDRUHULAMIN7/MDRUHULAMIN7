@@ -19,7 +19,7 @@
 - **Next.js**, **Advanced JavaScript**, **Frontend Tools & Libraries**  
 
 ### 💻 All My Projects  
-- Check them out at: [My Portfolio](https://ruhul-portfolio-eight.vercel.app/)  
+- Check them out at: [My Portfolio](https://ruhul-amin-portfolio.vercel.app/)  
 
 ### 💬 Ask Me About  
 - **React.js, JavaScript, Tailwind CSS**  
