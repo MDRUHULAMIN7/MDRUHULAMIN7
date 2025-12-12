@@ -13,10 +13,8 @@
 
 ---
 
-### 🌱 Currently Working
-<a href="https://sparktech.agency/">SparkTech Agency</a> as a Frontend Developer
 ### 🌱 Currently Learning  
-- **Next.js**, **Advanced JavaScript**, **Frontend Tools & Libraries**  
+- **C**, **Advanced JavaScript**, **Frontend Tools & Libraries**  
 
 ### 💻 All My Projects  
 - Check them out at: [My Portfolio](https://ruhul-amin-portfolio.vercel.app/)  
