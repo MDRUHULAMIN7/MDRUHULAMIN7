@@ -1,5 +1,5 @@
 <!-- Header Section -->
-<img src="https://res.cloudinary.com/dpomtzref/image/upload/v1729272525/g2psb8j0gtojhitkregc.png" alt="Cover Image" width="100%" />
+<img src="https://res.cloudinary.com/dpomtzref/image/upload/v1765599125/WhatsApp_Image_2025-12-12_at_8.22.54_PM_bqb5z2.jpg" alt="Cover Image" width="100%" />
 
 <h1 align="center">👋 Hi Iam Ruhul Amin</h1>
 <h3 align="center">A Passionate Frontend Developer & Tech Enthusiast </h3>
