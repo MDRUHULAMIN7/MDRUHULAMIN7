@@ -43,23 +43,6 @@ const ruhulAmin = {
 
 console.log("Always learning, always building! 🎯");
 
-## ⚡ Current Mission Status
-
-<div align="center">
-  
-  ```js
-  const developer = {
-    status: "✅ ACTIVE",
-    focus: [
-      "✨ Building innovative web apps with React & JavaScript",
-      "🧠 Mastering Advanced JavaScript & C",
-      "🌍 Contributing to open-source projects",
-      "🎨 Crafting pixel-perfect responsive UIs",
-      "⚡ Turning ideas into efficient, scalable code"
-    ],
-    productivity: "📈 100%",
-    mood: "🔥 ON FIRE"
-  };
 <br clear="right"/>
 
 <div align="center">
