@@ -163,23 +163,8 @@ console.log("Always learning, always building! 🎯");
   <a href="https://ruhul-amin-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=667eea" alt="Portfolio" />
   </a>
-  <a href="https://github.com/MDRUHULAMIN7">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.facebook.com/profile.php?id=100055395075833">
+  <a href="https://www.facebook.com/ra.ruhul.91725/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook" />
-  </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter" />
-  </a>
-  <a href="https://www.instagram.com/yourusername">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" />
-  </a>
-  <a href="https://discord.com/users/youruserid">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" alt="Discord" />
   </a>
 </p>
 
