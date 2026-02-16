@@ -1,211 +1,252 @@
 <div align="center">
 
-<!-- Epic Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Ruhul%20Amin&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Crafting%20Digital%20Experiences%20|%20One%20Line%20at%20a%20Time&descAlignY=55&descSize=18" width="100%"/>
+<!-- EPIC HERO SECTION -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24,30&height=350&section=header&text=RUHUL%20AMIN&fontSize=100&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20•%20Building%20Digital%20Dreams&descSize=25&descAlignY=51" />
 
-<!-- Dynamic Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=150&lines=Software+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9;Clean+Code+Enthusiast+%E2%9C%A8;Building+Tomorrow's+Solutions+Today+%F0%9F%9A%80" alt="Typing SVG" />
+<br>
+
+<!-- DYNAMIC TYPING EFFECT -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=800&color=667EEA&center=true&vCenter=true&width=900&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Creative+Problem+Solver+%F0%9F%A7%A9;Tech+Innovator+%E2%9A%A1;Passionate+About+Code+%E2%9D%A4%EF%B8%8F" />
+
+<br>
+
+<!-- STUNNING BADGES -->
+<p>
+  <img src="https://img.shields.io/badge/🎯_Focus-Building_Awesome_Apps-667eea?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/📍_Based-Rajshahi,_BD-764ba2?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/💡_Status-Ready_to_Innovate-f093fb?style=for-the-badge&labelColor=1a1a2e" />
 </p>
 
-<!-- Animated Status Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/🎯_Focus-Full--Stack_Development-667eea?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📍_Location-Rajshahi,_Bangladesh-764ba2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/💼_Status-Open_to_Work-f093fb?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🌟_Vibe-Always_Learning-00d4ff?style=for-the-badge" />
-</p>
-
-<!-- Profile Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MDRUHULAMIN7&label=PROFILE+VIEWS&color=667eea&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/MDRUHULAMIN7?label=FOLLOWERS&style=for-the-badge&color=764ba2" />
-  <img src="https://img.shields.io/github/stars/MDRUHULAMIN7?label=TOTAL+STARS&style=for-the-badge&color=f093fb" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=MDRUHULAMIN7&label=VISITORS&style=for-the-badge&color=667eea" />
+  <img src="https://img.shields.io/github/followers/MDRUHULAMIN7?label=FOLLOWERS&style=for-the-badge&color=764ba2&logo=github" />
 </p>
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br>
 
-<!-- About Me Section with Cool Layout -->
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+<!-- ANIMATED WAVE SEPARATOR -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
-### 👨‍💻 About Me
+<br>
+
+<!-- WHO AM I SECTION - CREATIVE STYLE -->
+<h2 align="center">⚡ WHO AM I? ⚡</h2>
+
+<div align="center">
 
 ```typescript
-interface Developer {
-  name: string;
-  role: string;
-  location: string;
-  languages: string[];
-  currentlyLearning: string[];
-  passions: string[];
-  lifeGoal: string;
+class Developer {
+  name: string = "Ruhul Amin";
+  title: string = "Software Developer";
+  location: string = "Rajshahi, Bangladesh 🇧🇩";
+  
+  skills: {
+    frontend: ["React", "Next.js", "TypeScript", "Tailwind"],
+    backend: ["Node.js", "Express", "MongoDB"],
+    tools: ["Git", "VS Code", "Figma", "Postman"]
+  };
+  
+  currentMission: string = "Building scalable web solutions 🚀";
+  motto: string = "Code with passion, build with purpose 💪";
+  
+  getRandomFact(): string {
+    const facts = [
+      "I debug faster than I code 🐛",
+      "Clean code is my love language ❤️",
+      "Problem-solving is my superpower 🦸",
+      "I speak fluent JavaScript and emoji 😎"
+    ];
+    return facts[Math.floor(Math.random() * facts.length)];
+  }
 }
 
-const ruhulAmin: Developer = {
-  name: "Ruhul Amin",
-  role: "Software Developer",
-  location: "Rajshahi, Bangladesh 🇧🇩",
-  languages: ["JavaScript", "TypeScript", "C"],
-  currentlyLearning: [
-    "Advanced JS Patterns",
-    "System Design",
-    "Cloud Architecture"
-  ],
-  passions: [
-    "Clean Code",
-    "Problem Solving",
-    "Open Source"
-  ],
-  lifeGoal: "Build products that matter 🚀"
-};
+const me = new Developer();
+console.log(me.currentMission); // 🔥 Let's build something amazing!
 ```
 
+</div>
+
+<br>
+
+<!-- TECH STACK - VISUAL GRID -->
+<h2 align="center">🛠️ MY TECH ARSENAL 🛠️</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="90">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50" alt="JavaScript" />
+<br>JavaScript
 </td>
-<td width="50%" valign="top">
-
-### 🎯 Quick Facts
-
-🔭 **Currently Working On**  
-Building scalable web applications
-
-🌱 **Currently Learning**  
-Advanced JavaScript, System Design, Cloud
-
-💡 **Ask Me About**  
-React, JavaScript, Web Development
-
-⚡ **Fun Fact**  
-I debug faster than I code 😄
-
-🎨 **Interests**  
-UI/UX Design, Problem Solving, Tech Blogs
-
-🏆 **Goal for 2025**  
-Contribute to major open-source projects
-
+<td align="center" width="90">
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50" height="50" alt="TypeScript" />
+<br>TypeScript
+</td>
+<td align="center" width="90">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" alt="React" />
+<br>React
+</td>
+<td align="center" width="90">
+<img src="https://techstack-generator.vercel.app/redux-icon.svg" width="50" height="50" alt="Redux" />
+<br>Redux
+</td>
+<td align="center" width="90">
+<img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="50" height="50" alt="Webpack" />
+<br>Webpack
+</td>
+<td align="center" width="90">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" height="50" alt="MySQL" />
+<br>MySQL
+</td>
+<td align="center" width="90">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50" alt="GitHub" />
+<br>GitHub
+</td>
+<td align="center" width="90">
+<img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="50" height="50" alt="Prettier" />
+<br>Prettier
+</td>
+</tr>
+<tr>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML" />
+<br>HTML5
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS" />
+<br>CSS3
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="Tailwind" />
+<br>Tailwind
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js" />
+<br>Node.js
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="Express" />
+<br>Express
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB" />
+<br>MongoDB
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=firebase" width="50" height="50" alt="Firebase" />
+<br>Firebase
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js" />
+<br>Next.js
+</td>
+</tr>
+<tr>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=c" width="50" height="50" alt="C" />
+<br>C
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" />
+<br>Git
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="VS Code" />
+<br>VS Code
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=figma" width="50" height="50" alt="Figma" />
+<br>Figma
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=vercel" width="50" height="50" alt="Vercel" />
+<br>Vercel
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=postman" width="50" height="50" alt="Postman" />
+<br>Postman
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=npm" width="50" height="50" alt="npm" />
+<br>npm
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=yarn" width="50" height="50" alt="Yarn" />
+<br>Yarn
 </td>
 </tr>
 </table>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+<br>
+
+<!-- ANIMATED WAVE SEPARATOR -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+
+<br>
+
+<!-- GITHUB STATS - SLEEK DESIGN -->
+<h2 align="center">📊 GITHUB STATS 📊</h2>
 
 <div align="center">
 
-## 🛠️ Technology Arsenal
+<a href="https://github.com/MDRUHULAMIN7">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MDRUHULAMIN7&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=f093fb&text_color=fff"/>
+</a>
+<a href="https://github.com/MDRUHULAMIN7">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MDRUHULAMIN7&theme=radical&hide_border=true&background=0d1117&stroke=667eea&ring=f093fb&fire=f093fb&currStreakLabel=f093fb"/>
+</a>
 
-### 💻 Languages & Core Technologies
+<br><br>
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-### 🎨 Frontend Development
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-</p>
-
-### ⚙️ Backend & Database
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
-
-### 🧰 Tools & Platforms
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-</p>
+<a href="https://github.com/MDRUHULAMIN7">
+  <img width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDRUHULAMIN7&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=fff&langs_count=12"/>
+</a>
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br>
 
-<!-- GitHub Stats Section -->
+<!-- ANIMATED WAVE SEPARATOR -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+
+<br>
+
+<!-- FEATURED PROJECTS - CARD STYLE -->
+<h2 align="center">🚀 FEATURED PROJECTS 🚀</h2>
+
 <div align="center">
-
-## 📊 GitHub Analytics & Insights
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MDRUHULAMIN7&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MDRUHULAMIN7&theme=radical&hide_border=true&background=0d1117&stroke=667eea&ring=f093fb&fire=f093fb&currStreakLabel=f093fb" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDRUHULAMIN7&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=10" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=MDRUHULAMIN7&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&layout=compact" />
-</p>
-
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MDRUHULAMIN7&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
-</p>
-
-### 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MDRUHULAMIN7&custom_title=Ruhul's%20Contribution%20Timeline&bg_color=0d1117&color=667eea&line=f093fb&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<!-- Featured Projects -->
-<div align="center">
-
-## 🎯 Featured Projects & Work
 
 <table>
 <tr>
 <td width="50%">
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MDRUHULAMIN7&repo=fitness-tracker-client&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=f093fb" />
 
-### 💪 Fitness Tracker App
-![Fitness](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+### 💪 Fitness Tracker
 
-Full-stack fitness tracking application with real-time progress monitoring and personalized workout plans.
+A full-stack fitness tracking platform with real-time progress monitoring, personalized workout plans, and social features.
 
-**Tech:** React • Node.js • MongoDB • Tailwind CSS
+**Stack:** React • Node.js • MongoDB • Tailwind
 
-[🔗 View Project](https://github.com/MDRUHULAMIN7/fitness-tracker-client)
+[View Project →](https://github.com/MDRUHULAMIN7/fitness-tracker-client)
 
 </td>
 <td width="50%">
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MDRUHULAMIN7&repo=DevDive&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=f093fb" />
 
 ### 🏊 DevDive Platform
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
 
-Developer community platform for sharing knowledge and collaborating on projects.
+A developer community platform for sharing knowledge, collaborating on projects, and connecting with fellow developers.
 
-**Tech:** Next.js • TypeScript • Firebase • Tailwind
+**Stack:** Next.js • TypeScript • Firebase • Tailwind
 
-[🔗 View Project](https://github.com/MDRUHULAMIN7/DevDive)
+[View Project →](https://github.com/MDRUHULAMIN7/DevDive)
 
 </td>
 </tr>
@@ -213,195 +254,175 @@ Developer community platform for sharing knowledge and collaborating on projects
 
 <br>
 
-### 🌐 [📱 View Complete Portfolio →](https://ruhul-amin-portfolio.vercel.app/)
+### 🌐 [📱 VIEW MY COMPLETE PORTFOLIO](https://ruhul-amin-portfolio.vercel.app/)
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br>
 
-<!-- Skills Progress -->
+<!-- ANIMATED WAVE SEPARATOR -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+
+<br>
+
+<!-- WHAT I'M UP TO -->
+<h2 align="center">🔥 CURRENTLY WORKING ON 🔥</h2>
+
 <div align="center">
-
-## 💹 Skills & Expertise
 
 <table>
 <tr>
-<td width="50%">
-
-**Frontend Development**
-```text
-React.js          ████████████████████   95%
-JavaScript        ███████████████████    90%
-TypeScript        ████████████████       80%
-Next.js           ██████████████         70%
-Tailwind CSS      ███████████████████    90%
-```
-
+<td align="center" width="33%">
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="150" />
+<br><br>
+<b>🎯 Learning</b>
+<br>
+Advanced JavaScript Patterns
+<br>
+System Design & Architecture
+<br>
+Cloud Computing (AWS)
 </td>
-<td width="50%">
-
-**Backend & Tools**
-```text
-Node.js           ██████████████         70%
-Express.js        █████████████          65%
-MongoDB           ████████████           60%
-Git & GitHub      ████████████████████   95%
-Problem Solving   ████████████████████   95%
-```
-
+<td align="center" width="33%">
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="150" />
+<br><br>
+<b>💻 Building</b>
+<br>
+E-commerce Platform
+<br>
+AI-Powered Chat App
+<br>
+Portfolio CMS
+</td>
+<td align="center" width="33%">
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="150" />
+<br><br>
+<b>🎨 Exploring</b>
+<br>
+3D Web Experiences
+<br>
+Motion Design
+<br>
+Web3 & Blockchain
 </td>
 </tr>
 </table>
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br>
 
-<!-- Developer Journey -->
+<!-- ANIMATED WAVE SEPARATOR -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+
+<br>
+
+<!-- ACTIVITY GRAPH -->
+<h2 align="center">📈 CONTRIBUTION ACTIVITY 📈</h2>
+
 <div align="center">
 
-## 🎖️ Developer Journey & Milestones
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Code-10K%2B_Lines-667eea?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<br><sub><b>Code Written</b></sub>
-<br><sub>Clean & Efficient</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Projects-50%2B-764ba2?style=for-the-badge&logo=rocket&logoColor=white" />
-<br><sub><b>Projects Built</b></sub>
-<br><sub>From Scratch</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Problems-500%2B-f093fb?style=for-the-badge&logo=leetcode&logoColor=white" />
-<br><sub><b>Challenges Solved</b></sub>
-<br><sub>Keep Growing</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Learning-Every_Day-00d4ff?style=for-the-badge&logo=read-the-docs&logoColor=white" />
-<br><sub><b>Continuous Growth</b></sub>
-<br><sub>Never Stop</sub>
-</td>
-</tr>
-</table>
-
-### 💡 *"Code is poetry written in logic, and debugging is the art of reading between the lines."*
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MDRUHULAMIN7&custom_title=Contribution%20Timeline&bg_color=0d1117&color=667eea&line=f093fb&point=ffffff&area=true&hide_border=true" width="95%"/>
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br>
 
-<!-- Connect Section -->
+<!-- ANIMATED WAVE SEPARATOR -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+
+<br>
+
+<!-- CONNECT SECTION - MODERN STYLE -->
+<h2 align="center">💬 LET'S CONNECT 💬</h2>
+
 <div align="center">
 
-## 🤝 Let's Connect & Collaborate
-
-<p align="center">
+<p>
   <a href="mailto:ruhulthisis@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Email-ruhulthisis@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" alt="Email" />
   </a>
+</p>
+
+<p>
   <a href="https://www.linkedin.com/in/ruhulamin-developer/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" alt="LinkedIn" />
   </a>
   <a href="https://github.com/MDRUHULAMIN7">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" alt="GitHub" />
   </a>
   <a href="https://ruhul-amin-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit-667eea?style=for-the-badge&logo=safari&logoColor=white&labelColor=1a1a2e" alt="Portfolio" />
   </a>
-</p>
-
-<p align="center">
   <a href="https://www.facebook.com/ra.ruhul.91725/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://twitter.com/MDRUHULAMIN7">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://www.instagram.com/ruhulamin.dev/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://dev.to/mdruhulamin7">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
+    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1a1a2e" alt="Facebook" />
   </a>
 </p>
 
-### 📧 **ruhulthisis@gmail.com**
+<br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9b44-4c23-8a86-6a6e01c4fd9b.gif" width="500">
-
-### 💬 Open for:
-✅ Freelance Projects • ✅ Full-time Opportunities • ✅ Collaborations • ✅ Technical Discussions
-
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<!-- Quote & Meme Section -->
-<div align="center">
-
-## 💭 Daily Developer Wisdom
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Dev Quote"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9b44-4c23-8a86-6a6e01c4fd9b.gif" width="500"/>
 
 <br><br>
 
-## 😄 Dev Humor Break
+### 🎯 OPEN FOR
 
-<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder&qColor=%23667eea&aColor=%23f093fb" alt="Jokes Card" />
+<p>
+  <img src="https://img.shields.io/badge/✅_Freelance_Projects-Ready-success?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/✅_Full_Time_Roles-Interested-success?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/✅_Collaborations-Always-success?style=for-the-badge&labelColor=1a1a2e" />
+</p>
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br>
 
-<!-- Snake Animation -->
+<!-- ANIMATED WAVE SEPARATOR -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+
+<br>
+
+<!-- INSPIRATIONAL QUOTE -->
 <div align="center">
 
-## 🐍 Contribution Snake Animation
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MDRUHULAMIN7/MDRUHULAMIN7/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MDRUHULAMIN7/MDRUHULAMIN7/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MDRUHULAMIN7/MDRUHULAMIN7/output/github-contribution-grid-snake.svg">
-</picture>
-
-<sub>🎮 Watch the snake eat my contributions! (Setup required - see instructions)</sub>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&animation=grow_out_in" />
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br>
 
-<!-- Support Section -->
+<!-- DEV JOKE -->
 <div align="center">
 
-## ☕ Support My Work
-
-If you like my projects and want to support my work:
-
-<a href="https://www.buymeacoffee.com/ruhulamin" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210">
-</a>
-
-<sub>Every contribution helps me create more awesome projects! 🙏</sub>
+<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder&qColor=%23667eea&aColor=%23f093fb" />
 
 </div>
 
-<!-- Footer -->
+<br>
+
+<!-- ANIMATED WAVE SEPARATOR -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+
+<br>
+
+<!-- EPIC FOOTER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24,30&height=200&section=footer&text=Thanks%20For%20Visiting!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=70" />
 
-### 🚀 *"Building the future, one commit at a time"*
+<br>
 
-<sub>Made with ❤️ by Ruhul Amin • Last Updated: 2025</sub>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
+
+### ⚡ *"Code with passion, build with purpose"* ⚡
+
+<sub>Made with ❤️ • Updated 2025 • Ruhul Amin</sub>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,15,20,24,30&height=2" />
 
 </div>
-
