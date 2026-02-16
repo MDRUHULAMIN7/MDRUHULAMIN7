@@ -5,7 +5,7 @@
 
 <!-- Dynamic Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=150&lines=Software+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9;Clean+Code+Enthusiast+%E2%9C%A8;Building+Tomorrow's+Solutions+Today+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=150&lines=Software+Developer+%F0%9F%92%BB;Problem+Solver+Clean+Code+Enthusiast%F0%9F%A7%A9;Building+Tomorrow's+Solutions+Today+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <!-- Animated Status Badges -->
@@ -24,9 +24,6 @@
 </p>
 
 </div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- About Me Section with Cool Layout -->
 <table align="center">
@@ -92,8 +89,6 @@ Contribute to major open-source projects
 </tr>
 </table>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
 
@@ -151,14 +146,9 @@ Contribute to major open-source projects
 ## 📊 GitHub Analytics & Insights
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MDRUHULAMIN7&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&count_private=true&include_all_commits=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MDRUHULAMIN7&theme=radical&hide_border=true&background=0d1117&stroke=667eea&ring=f093fb&fire=f093fb&currStreakLabel=f093fb" />
 </p>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDRUHULAMIN7&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=10" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=MDRUHULAMIN7&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&layout=compact" />
-</p>
 
 
 
@@ -209,12 +199,9 @@ Developer community platform for sharing knowledge and collaborating on projects
 
 <br>
 
-### 🌐 [📱 View  Portfolio →](https://ruhul-amin-portfolio.vercel.app/)
+### 🌐 [ View  Portfolio →](https://ruhul-amin-portfolio.vercel.app/)
 
 </div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- Developer Journey -->
 <div align="center">
@@ -249,9 +236,6 @@ Developer community platform for sharing knowledge and collaborating on projects
 ### 💡 *"Code is poetry written in logic, and debugging is the art of reading between the lines."*
 
 </div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- Connect Section -->
 <div align="center">
@@ -288,9 +272,6 @@ Developer community platform for sharing knowledge and collaborating on projects
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 <!-- Quote & Meme Section -->
 <div align="center">
 
@@ -305,15 +286,6 @@ Developer community platform for sharing knowledge and collaborating on projects
 <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder&qColor=%23667eea&aColor=%23f093fb" alt="Jokes Card" />
 
 </div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-
 <!-- Footer -->
 <div align="center">
 
