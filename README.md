@@ -66,12 +66,12 @@ console.log("Always learning, always building! 🎯");
 
 ### ⚡ Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind&theme=dark" />
 </p>
 
 ### 🛠️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,firebase,vercel,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,firebase,vercel,mongodb,postman&theme=dark" />
 </p>
 </div>
 
@@ -86,7 +86,6 @@ console.log("Always learning, always building! 🎯");
 
 <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDRUHULAMIN7&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=10" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=MDRUHULAMIN7&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
 
 </div>
 
