@@ -1,61 +1,83 @@
 <div align="center">
-  
-# ☕ Hey there, I'm Ruhul Amin
-  
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Frontend+Developer+%26+Tech+Enthusiast;Turning+Coffee+into+Code+%E2%98%95;Building+Digital+Experiences;React+%7C+JavaScript+%7C+Tailwind+CSS" alt="Typing SVG" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Digital%20Space&fontSize=42&fontAlignY=32&desc=Where%20Ideas%20Become%20Reality&descSize=16&descAlignY=51&animation=twinkling" width="100%"/>
+<!-- Animated Header with Particles Effect -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=Ruhul%20Amin&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Problem%20Solver%20|%20Code%20Artist&descAlignY=55&descSize=20" width="100%"/>
+
+<!-- Typing Animation with Multiple Lines -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=100&lines=Software+Developer+%26+Tech+Innovator;Turning+Coffee+%E2%98%95+into+Clean+Code;Building+Scalable+Digital+Solutions;React+%7C+JavaScript+%7C+Modern+Web" alt="Typing SVG" />
+
+<!-- Animated Badges -->
+<p>
+  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-667eea?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Based%20in-Rajshahi,%20Bangladesh-764ba2?style=for-the-badge&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-f093fb?style=for-the-badge&logo=checkmarx&logoColor=white" />
+</p>
+
+<!-- Profile Views Counter with Style -->
+<img src="https://komarev.com/ghpvc/?username=MDRUHULAMIN7&label=Profile%20Visitors&color=667eea&style=for-the-badge" alt="profile views" />
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="420" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 ```javascript
 const ruhulAmin = {
-    role: "Frontend Developer",
+    title: "Software Developer",
     location: "Rajshahi, Bangladesh 🇧🇩",
-    currentFocus: ["Advanced JavaScript", "C Programming", "Modern Frontend"],
-    coffee: "☕".repeat(Infinity),
-    code: "Always learning, always building",
-    hobbies: ["Problem Solving", "Open Source", "Tech Blogs"],
-    lifePhilosophy: "Great things come from small beginnings"
+    focus: ["Frontend Development", "Problem Solving"],
+    learning: ["Advanced JavaScript", "C Programming", "Modern Frameworks"],
+    passion: ["Clean Code", "UI/UX Design", "Open Source"],
+    dailyRoutine: {
+        morning: "Coffee ☕",
+        afternoon: "Code 💻",
+        evening: "More Code 🚀",
+        night: "Debug 🐛"
+    },
+    funFact: "I turn coffee into code!",
+    motto: "Great things come from small beginnings"
 };
+
+console.log("Always learning, always building! 🎯");
 ```
 
-### 🚀 What I'm Up To
+## 🚀 What I'm Currently Doing
 
-- 🔭 Building innovative frontend solutions
-- 🌱 Mastering **C**, **Advanced JavaScript**, and modern frameworks
-- 🎯 Exploring new tools and libraries to enhance development workflow
-- ☕ Converting caffeine into clean, efficient code
-- 🎨 Crafting beautiful, responsive user interfaces
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="25"> Building innovative web applications with React & JavaScript  
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="25"> Mastering **Advanced JavaScript**, **TypeScript**, and **C Programming**  
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="25"> Contributing to open-source projects  
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="25"> Crafting pixel-perfect, responsive user interfaces  
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="25"> Converting ☕ caffeine into efficient, scalable code
 
 <br clear="right"/>
 
----
-
 <div align="center">
 
-## 💼 My Tech Arsenal
+---
 
-### Languages & Core
+## 💻 Tech Stack & Tools
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100%">
+
+### 🎯 Core Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,js,html,css,typescript" />
+  <img src="https://skillicons.dev/icons?i=js,typescript,c,html,css&theme=dark" />
 </p>
 
-### Frameworks & Libraries  
+### ⚡ Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap&theme=dark" />
 </p>
 
-### Tools & Platforms
+### 🛠️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,firebase,vercel,mongodb" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,firebase,vercel,mongodb&theme=dark" />
 </p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100%">
 
 </div>
 
@@ -63,12 +85,14 @@ const ruhulAmin = {
 
 <div align="center">
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MDRUHULAMIN7&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MDRUHULAMIN7&theme=radical&hide_border=true&background=0d1117&stroke=667eea&ring=f093fb&fire=f093fb&currStreakLabel=f093fb" />
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDRUHULAMIN7&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=10" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=MDRUHULAMIN7&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
 
 </div>
 
@@ -76,30 +100,28 @@ const ruhulAmin = {
 
 <div align="center">
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Activity
 
-<img src="https://github-profile-trophy.vercel.app/?username=MDRUHULAMIN7&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MDRUHULAMIN7&custom_title=Ruhul's%20Contribution%20Graph&bg_color=0d1117&color=667eea&line=f093fb&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
 
 ---
+
+<div align="center">
 
 ## 🎯 Featured Projects
 
-<div align="center">
-
-<a href="https://ruhul-amin-portfolio.vercel.app/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MDRUHULAMIN7&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/MDRUHULAMIN7/fitness-tracker-client">
+  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MDRUHULAMIN7&repo=fitness-tracker-client&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=f093fb" />
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MDRUHULAMIN7&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/MDRUHULAMIN7">
+  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MDRUHULAMIN7&repo=DevDive&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=f093fb" />
 </a>
 
-</div>
+<br><br>
 
-<div align="center">
-  
-### 🌐 (https://ruhul-amin-portfolio.vercel.app/)
+### 🌐 [View My Complete Portfolio →](https://ruhul-amin-portfolio.vercel.app/)
 
 </div>
 
@@ -107,24 +129,89 @@ const ruhulAmin = {
 
 <div align="center">
 
-## 🤝 Let's Connect
+## ☕ Stats & Achievements
 
-<p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Coffee%20Consumed-∞%20Cups-brown?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=6f4e37" />
+      <br>
+      <sub>Fueling Innovation</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Lines%20of%20Code-100K%2B-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0078d4" />
+      <br>
+      <sub>And Counting...</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Problems%20Solved-500%2B-green?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=00b300" />
+      <br>
+      <sub>Never Stop Learning</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Projects%20Built-50%2B-orange?style=for-the-badge&logo=rocket&logoColor=white&labelColor=ff6600" />
+      <br>
+      <sub>From Idea to Reality</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/GitHub%20Stars-Growing-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=ffd700" />
+      <br>
+      <sub>Community Support</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Open%20Source-Contributor-red?style=for-the-badge&logo=open-source-initiative&logoColor=white&labelColor=cc0000" />
+      <br>
+      <sub>Giving Back</sub>
+    </td>
+  </tr>
+</table>
+
+### 💡 *"First I drink the coffee, then I do the things."*
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 Connect With Me
+
+<!-- Enhanced Social Media Links with Hover Effects -->
+<p align="center">
   <a href="mailto:ruhulthisis@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://www.linkedin.com/in/md-ruhul-amin-86a292257/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
   </a>
   <a href="https://ruhul-amin-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=667eea" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/MDRUHULAMIN7">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
   </a>
 </p>
 
-### 📧 ruhulthisis@gmail.com
+<p align="center">
+  <a href="https://www.facebook.com/profile.php?id=100055395075833">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook" />
+  </a>
+  <a href="https://twitter.com/yourusername">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter" />
+  </a>
+  <a href="https://www.instagram.com/yourusername">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" />
+  </a>
+  <a href="https://discord.com/users/youruserid">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" alt="Discord" />
+  </a>
+</p>
+
+### 📧 Email: ruhulthisis@gmail.com
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9b44-4c23-8a86-6a6e01c4fd9b.gif" width="400">
 
 </div>
 
@@ -132,19 +219,9 @@ const ruhulAmin = {
 
 <div align="center">
 
-## 💭 Dev Quote
+## 💭 Daily Dev Quote
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
-
----
-
-<div align="center">
-
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MDRUHULAMIN7&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
 
 </div>
 
@@ -152,49 +229,16 @@ const ruhulAmin = {
 
 <div align="center">
 
-## ☕ Coffee Counter
+## 🐍 Watch My Contributions Get Eaten!
 
-<img src="https://img.shields.io/badge/Coffee%20Consumed-∞%20cups-brown?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
-<img src="https://img.shields.io/badge/Code%20Written-%3C%2F%3E%20lines-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Problems%20Solved-∞%2B-green?style=for-the-badge&logo=checkmarx&logoColor=white" />
-
-### *"First I drink the coffee, then I do the things."*
-
-</div>
-
----
-
-<div align="center">
-  
-### 🎵 Vibes
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
-
-<sub>*Currently coding to...*</sub>
-
-</div>
-
----
-
-<div align="center">
-
-## 🐍 Contribution Snake
-
+<!-- Note: This requires GitHub Actions setup - See instructions below -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MDRUHULAMIN7/MDRUHULAMIN7/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MDRUHULAMIN7/MDRUHULAMIN7/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MDRUHULAMIN7/MDRUHULAMIN7/output/github-contribution-grid-snake.svg">
 </picture>
 
-</div>
-
----
-
-<div align="center">
-
-### 💡 Random Dev Fact
-
-![](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
+<sub>💡 To enable the snake animation, set up the GitHub Action (see setup guide below)</sub>
 
 </div>
 
@@ -202,10 +246,21 @@ const ruhulAmin = {
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=MDRUHULAMIN7&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+## 🎮 Random Dev Meme
 
-### *"Building the future, one commit at a time"* 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder&qColor=%23667eea&aColor=%23f093fb" alt="Jokes Card" />
 
 </div>
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+### 🎯 "Building the future, one commit at a time" 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer" width="100%"/>
+
+</div>
+
