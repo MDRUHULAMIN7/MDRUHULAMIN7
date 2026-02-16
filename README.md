@@ -80,20 +80,12 @@ console.log("Always learning, always building! 🎯");
 <div align="center">
 
 ## 📊 GitHub Statistics
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MDRUHULAMIN7&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MDRUHULAMIN7&theme=radical&hide_border=true&background=0d1117&stroke=667eea&ring=f093fb&fire=f093fb&currStreakLabel=f093fb" />
-
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDRUHULAMIN7&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=10" />
-
-
 </div>
-
----
 
 <div align="center">
 
-## 📈 Contribution Activity
+##  Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MDRUHULAMIN7&custom_title=Ruhul's%20Contribution%20Graph&bg_color=0d1117&color=667eea&line=f093fb&point=ffffff&area=true&hide_border=true" width="100%"/>
 
@@ -103,14 +95,14 @@ console.log("Always learning, always building! 🎯");
 
 <div align="center">
 
-## 🎯 Featured Projects
+##  Featured Projects
 <a href="https://github.com/MDRUHULAMIN7/DevDive-Client-Side">
   <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MDRUHULAMIN7&repo=DevDive-Client-Side&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=f093fb" />
 </a>
 
 <br><br>
 
-### 🌐 [View My Portfolio →](https://ruhul-amin-portfolio.vercel.app/)
+###  [View My Portfolio →](https://ruhul-amin-portfolio.vercel.app/)
 
 </div>
 
@@ -118,7 +110,7 @@ console.log("Always learning, always building! 🎯");
 
 <div align="center">
 
-## 🎯 Stats & Achievements
+##  Stats & Achievements
 
 <table>
   <tr>
