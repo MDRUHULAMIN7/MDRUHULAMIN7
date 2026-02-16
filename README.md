@@ -95,13 +95,6 @@ console.log("Always learning, always building! 🎯");
 
 <div align="center">
 
-##  Featured Projects
-<a href="https://github.com/MDRUHULAMIN7/DevDive-Client-Side">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MDRUHULAMIN7&repo=DevDive-Client-Side&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=f093fb" />
-</a>
-
-<br><br>
-
 ###  [View My Portfolio →](https://ruhul-amin-portfolio.vercel.app/)
 
 </div>
