@@ -44,7 +44,7 @@ const ruhulAmin = {
 
 ### Languages & Core
 <p>
-  <img src="https://skillicons.dev/icons?i=c,js,html,css,python" />
+  <img src="https://skillicons.dev/icons?i=c,js,html,css,typescript" />
 </p>
 
 ### Frameworks & Libraries  
@@ -78,7 +78,7 @@ const ruhulAmin = {
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=MDRUHULAMIN7&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 </div>
 
@@ -89,17 +89,17 @@ const ruhulAmin = {
 <div align="center">
 
 <a href="https://ruhul-amin-portfolio.vercel.app/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MDRUHULAMIN7&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MDRUHULAMIN7&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
 
 <div align="center">
   
-### 🌐 [View All Projects on My Portfolio](https://ruhul-amin-portfolio.vercel.app/)
+### 🌐 (https://ruhul-amin-portfolio.vercel.app/)
 
 </div>
 
@@ -144,7 +144,7 @@ const ruhulAmin = {
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MDRUHULAMIN7&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
@@ -181,9 +181,9 @@ const ruhulAmin = {
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MDRUHULAMIN7/MDRUHULAMIN7/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MDRUHULAMIN7/MDRUHULAMIN7/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MDRUHULAMIN7/MDRUHULAMIN7/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -202,7 +202,7 @@ const ruhulAmin = {
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=MDRUHULAMIN7&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 
 ### *"Building the future, one commit at a time"* 🚀
 
