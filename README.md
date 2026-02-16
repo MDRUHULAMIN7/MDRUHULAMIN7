@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=Ruhul%20Amin&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Problem%20Solver%20|%20Code%20Artist&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- Typing Animation with Multiple Lines -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=100&lines=Software+Developer+%26+Tech+Innovator;Turning+Coffee+%E2%98%95+into+Clean+Code;Building+Scalable+Digital+Solutions;React+%7C+JavaScript+%7C+Modern+Web" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=100&lines=Software+Developer+%26+Tech+Innovator;Passionate+About+Clean+Code;Building+Scalable+Digital+Solutions;React+%7C+JavaScript+%7C+Modern+Web" alt="Typing SVG" />
 
 <!-- Animated Badges -->
 <p>
@@ -32,12 +32,12 @@ const ruhulAmin = {
     learning: ["Advanced JavaScript", "C Programming", "Modern Frameworks"],
     passion: ["Clean Code", "UI/UX Design", "Open Source"],
     dailyRoutine: {
-        morning: "Coffee ☕",
+        morning: "Plan 📝",
         afternoon: "Code 💻",
-        evening: "More Code 🚀",
+        evening: "Build 🚀",
         night: "Debug 🐛"
     },
-    funFact: "I turn coffee into code!",
+    funFact: "I love solving coding challenges!",
     motto: "Great things come from small beginnings"
 };
 
@@ -50,7 +50,7 @@ console.log("Always learning, always building! 🎯");
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="25"> Mastering **Advanced JavaScript**, **TypeScript**, and **C Programming**  
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="25"> Contributing to open-source projects  
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="25"> Crafting pixel-perfect, responsive user interfaces  
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="25"> Converting ☕ caffeine into efficient, scalable code
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="25"> Turning ideas into efficient, scalable code
 
 <br clear="right"/>
 
@@ -115,7 +115,7 @@ console.log("Always learning, always building! 🎯");
 <a href="https://github.com/MDRUHULAMIN7/fitness-tracker-client">
   <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MDRUHULAMIN7&repo=fitness-tracker-client&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=f093fb" />
 </a>
-<a href="https://github.com/MDRUHULAMIN7">
+<a href="https://github.com/MDRUHULAMIN7/DevDive">
   <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MDRUHULAMIN7&repo=DevDive&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=f093fb" />
 </a>
 
@@ -129,46 +129,46 @@ console.log("Always learning, always building! 🎯");
 
 <div align="center">
 
-## ☕ Stats & Achievements
+## 🎯 Stats & Achievements
 
 <table>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Coffee%20Consumed-∞%20Cups-brown?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=6f4e37" />
+      <img src="https://img.shields.io/badge/Commits-10K%2B-667eea?style=for-the-badge&logo=git&logoColor=white&labelColor=667eea" />
       <br>
-      <sub>Fueling Innovation</sub>
+      <sub>Keep Building</sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Lines%20of%20Code-100K%2B-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0078d4" />
+      <img src="https://img.shields.io/badge/Lines%20of%20Code-100K%2B-764ba2?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=764ba2" />
       <br>
       <sub>And Counting...</sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Problems%20Solved-500%2B-green?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=00b300" />
+      <img src="https://img.shields.io/badge/Problems%20Solved-500%2B-f093fb?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=f093fb" />
       <br>
       <sub>Never Stop Learning</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Projects%20Built-50%2B-orange?style=for-the-badge&logo=rocket&logoColor=white&labelColor=ff6600" />
+      <img src="https://img.shields.io/badge/Projects%20Built-50%2B-667eea?style=for-the-badge&logo=rocket&logoColor=white&labelColor=667eea" />
       <br>
       <sub>From Idea to Reality</sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/GitHub%20Stars-Growing-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=ffd700" />
+      <img src="https://img.shields.io/badge/GitHub%20Stars-Growing-764ba2?style=for-the-badge&logo=github&logoColor=white&labelColor=764ba2" />
       <br>
       <sub>Community Support</sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Open%20Source-Contributor-red?style=for-the-badge&logo=open-source-initiative&logoColor=white&labelColor=cc0000" />
+      <img src="https://img.shields.io/badge/Open%20Source-Contributor-f093fb?style=for-the-badge&logo=open-source-initiative&logoColor=white&labelColor=f093fb" />
       <br>
       <sub>Giving Back</sub>
     </td>
   </tr>
 </table>
 
-### 💡 *"First I drink the coffee, then I do the things."*
+### 💡 *"Code is poetry written in logic."*
 
 </div>
 
@@ -238,7 +238,7 @@ console.log("Always learning, always building! 🎯");
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MDRUHULAMIN7/MDRUHULAMIN7/output/github-contribution-grid-snake.svg">
 </picture>
 
-<sub>💡 To enable the snake animation, set up the GitHub Action (see setup guide below)</sub>
+<sub>💡 To enable the snake animation, set up the GitHub Action (see setup guide)</sub>
 
 </div>
 
@@ -264,3 +264,5 @@ console.log("Always learning, always building! 🎯");
 
 </div>
 
+═════════════════════════════════════════════════════════════
+-->
