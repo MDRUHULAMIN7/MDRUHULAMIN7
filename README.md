@@ -42,22 +42,24 @@ const ruhulAmin = {
 };
 
 console.log("Always learning, always building! 🎯");
-```
-## 🔥 Currently Cooking
+
+## ⚡ Current Mission Status
 
 <div align="center">
   
-  | | |
-  |:---:|:---:|
-  | <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30"> | **React & JavaScript** • Building innovative web apps |
-  | <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a5aa-d6f8f6344f61.gif" width="30"> | **Advanced JS & C** • Deep diving into systems programming |
-  | <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30"> | **Open Source** • Contributing & collaborating |
-  | <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-be74-4cf0-a342-8027733c2c94.gif" width="30"> | **UI/UX** • Pixel-perfect responsive designs |
-  | <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30"> | **Code Architecture** • Ideas → Scalable solutions |
-  
-  <img src="https://profile-counter.glitch.me/{your-username}/count.svg" alt="visitor counter" />
-  
-</div>
+  ```js
+  const developer = {
+    status: "✅ ACTIVE",
+    focus: [
+      "✨ Building innovative web apps with React & JavaScript",
+      "🧠 Mastering Advanced JavaScript & C",
+      "🌍 Contributing to open-source projects",
+      "🎨 Crafting pixel-perfect responsive UIs",
+      "⚡ Turning ideas into efficient, scalable code"
+    ],
+    productivity: "📈 100%",
+    mood: "🔥 ON FIRE"
+  };
 <br clear="right"/>
 
 <div align="center">
