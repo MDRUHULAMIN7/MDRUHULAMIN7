@@ -1,102 +1,211 @@
 <div align="center">
+  
+# ☕ Hey there, I'm Ruhul Amin
+  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Frontend+Developer+%26+Tech+Enthusiast;Turning+Coffee+into+Code+%E2%98%95;Building+Digital+Experiences;React+%7C+JavaScript+%7C+Tailwind+CSS" alt="Typing SVG" />
 
-# 👨‍💻 Ruhul Amin
-
-### `< Frontend Developer />` | Tech Enthusiast | Coffee Addict ☕
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Building+Beautiful+Interfaces;Crafting+User+Experiences;Writing+Clean+Code;One+Component+at+a+Time)](https://git.io/typing-svg)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Digital%20Space&fontSize=42&fontAlignY=32&desc=Where%20Ideas%20Become%20Reality&descSize=16&descAlignY=51&animation=twinkling" width="100%"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+### 👨‍💻 About Me
 
 ```javascript
 const ruhulAmin = {
-  location: "🌍 Earth",
-  role: "Frontend Developer",
-  code: ["JavaScript", "TypeScript", "C", "HTML", "CSS"],
-  technologies: {
-    frontEnd: {
-      js: ["React.js", "Next.js"],
-      css: ["Tailwind CSS", "CSS3"]
-    },
-    tools: ["Git", "Vite", "VS Code", "Figma"],
-    currentlyLearning: ["C", "Advanced JavaScript", "Frontend Architecture"]
-  },
-  passions: ["Clean Code", "UI/UX Design", "Problem Solving"],
-  funFact: "I debug with console.log() and coffee ☕"
+    role: "Frontend Developer",
+    location: "Rajshahi, Bangladesh 🇧🇩",
+    currentFocus: ["Advanced JavaScript", "C Programming", "Modern Frontend"],
+    coffee: "☕".repeat(Infinity),
+    code: "Always learning, always building",
+    hobbies: ["Problem Solving", "Open Source", "Tech Blogs"],
+    lifePhilosophy: "Great things come from small beginnings"
 };
-🎯 Current Focus
-<table> <tr> <td width="50%">
-🌱 Learning Journey
-🔹 Deep diving into C Programming
+```
 
-🔹 Mastering Advanced JavaScript
+### 🚀 What I'm Up To
 
-🔹 Exploring Modern Frontend Frameworks
+- 🔭 Building innovative frontend solutions
+- 🌱 Mastering **C**, **Advanced JavaScript**, and modern frameworks
+- 🎯 Exploring new tools and libraries to enhance development workflow
+- ☕ Converting caffeine into clean, efficient code
+- 🎨 Crafting beautiful, responsive user interfaces
 
-🔹 Building Production-Ready Apps
+<br clear="right"/>
 
-</td> <td width="50%">
-💡 What I'm Working On
-🚀 Building awesome projects
+---
 
-🎨 Creating beautiful UIs
-
-🧩 Solving coding challenges
-
-📚 Contributing to open source
-
-</td> </tr> </table>
-🛠️ Tech Arsenal
 <div align="center">
-Languages
 
+## 💼 My Tech Arsenal
 
+### Languages & Core
+<p>
+  <img src="https://skillicons.dev/icons?i=c,js,html,css,typescript" />
+</p>
 
+### Frameworks & Libraries  
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap" />
+</p>
 
-
-
-Frameworks & Libraries
-
-
-
-
-Tools & Platforms
-
-
-
-
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,firebase,vercel,mongodb" />
+</p>
 
 </div>
-📊 GitHub Analytics
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MDRUHULAMIN7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDRUHULAMIN7&layout=compact&langs_count=8&theme=tokyonight"/> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MDRUHULAMIN7&theme=tokyonight" /> </div> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=MDRUHULAMIN7&theme=tokyo-night&hide_border=true" /> </div>
-🏆 GitHub Trophies
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=MDRUHULAMIN7&theme=tokyonight&no-frame=true&margin-w=4&row=1" /> </div>
-💼 Featured Projects
+
+---
+
 <div align="center">
 
-</div> <table> <tr> <td width="50%"> <h3 align="center">Project Name 1</h3> <div align="center"> <img src="https://via.placeholder.com/400x200/3B82F6/FFFFFF?text=Project+Screenshot" width="100%" /> <p><strong>React, Tailwind CSS, Vite</strong></p> </div> </td> <td width="50%"> <h3 align="center">Project Name 2</h3> <div align="center"> <img src="https://via.placeholder.com/400x200/10B981/FFFFFF?text=Project+Screenshot" width="100%" /> <p><strong>JavaScript, HTML, CSS</strong></p> </div> </td> </tr> </table>
-📬 Let's Connect
-<div align="center">
+## 📊 GitHub Analytics
 
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
 
-
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
-💭 Dev Quote
+
+---
+
 <div align="center">
 
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=MDRUHULAMIN7&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 </div>
-👀 Profile Views
+
+---
+
+## 🎯 Featured Projects
+
 <div align="center">
 
+<a href="https://ruhul-amin-portfolio.vercel.app/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MDRUHULAMIN7&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MDRUHULAMIN7&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true" />
+</a>
+
 </div>
+
 <div align="center">
-🌟 Show some ❤️ by starring repositories
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="800"> </div> ```
+  
+### 🌐 (https://ruhul-amin-portfolio.vercel.app/)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 Let's Connect
+
+<p>
+  <a href="mailto:ruhulthisis@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://ruhul-amin-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+### 📧 ruhulthisis@gmail.com
+
+</div>
+
+---
+
+<div align="center">
+
+## 💭 Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MDRUHULAMIN7&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## ☕ Coffee Counter
+
+<img src="https://img.shields.io/badge/Coffee%20Consumed-∞%20cups-brown?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
+<img src="https://img.shields.io/badge/Code%20Written-%3C%2F%3E%20lines-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Problems%20Solved-∞%2B-green?style=for-the-badge&logo=checkmarx&logoColor=white" />
+
+### *"First I drink the coffee, then I do the things."*
+
+</div>
+
+---
+
+<div align="center">
+  
+### 🎵 Vibes
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
+
+<sub>*Currently coding to...*</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MDRUHULAMIN7/MDRUHULAMIN7/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MDRUHULAMIN7/MDRUHULAMIN7/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MDRUHULAMIN7/MDRUHULAMIN7/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Random Dev Fact
+
+![](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=MDRUHULAMIN7&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+
+### *"Building the future, one commit at a time"* 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
