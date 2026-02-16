@@ -47,7 +47,7 @@ console.log("Always learning, always building! 🎯");
 ## 🚀 What I'm Currently Doing
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="25"> Building innovative web applications with React & JavaScript  
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="25"> Mastering **Advanced JavaScript**, **TypeScript**, and **C Programming**  
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="25"> Mastering **Advanced JavaScript** and **C Programming**  
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="25"> Contributing to open-source projects  
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="25"> Crafting pixel-perfect, responsive user interfaces  
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="25"> Turning ideas into efficient, scalable code
@@ -59,9 +59,6 @@ console.log("Always learning, always building! 🎯");
 ---
 
 ## 💻 Tech Stack & Tools
-
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100%">
-
 ### 🎯 Core Languages
 <p>
   <img src="https://skillicons.dev/icons?i=js,typescript,c,html,css&theme=dark" />
@@ -76,9 +73,6 @@ console.log("Always learning, always building! 🎯");
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,firebase,vercel,mongodb&theme=dark" />
 </p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100%">
-
 </div>
 
 ---
@@ -111,17 +105,13 @@ console.log("Always learning, always building! 🎯");
 <div align="center">
 
 ## 🎯 Featured Projects
-
-<a href="https://github.com/MDRUHULAMIN7/fitness-tracker-client">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MDRUHULAMIN7&repo=fitness-tracker-client&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=f093fb" />
-</a>
-<a href="https://github.com/MDRUHULAMIN7/DevDive">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MDRUHULAMIN7&repo=DevDive&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=f093fb" />
+<a href="https://github.com/MDRUHULAMIN7/DevDive-Client-Side">
+  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MDRUHULAMIN7&repo=DevDive-Client-Side&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=f093fb" />
 </a>
 
 <br><br>
 
-### 🌐 [View My Complete Portfolio →](https://ruhul-amin-portfolio.vercel.app/)
+### 🌐 [View My Portfolio →](https://ruhul-amin-portfolio.vercel.app/)
 
 </div>
 
@@ -183,7 +173,7 @@ console.log("Always learning, always building! 🎯");
   <a href="mailto:ruhulthisis@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/md-ruhul-amin-86a292257/">
+  <a href="https://www.linkedin.com/in/ruhulamin-developer/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
   </a>
   <a href="https://ruhul-amin-portfolio.vercel.app/">
@@ -229,30 +219,11 @@ console.log("Always learning, always building! 🎯");
 
 <div align="center">
 
-## 🐍 Watch My Contributions Get Eaten!
-
-<!-- Note: This requires GitHub Actions setup - See instructions below -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MDRUHULAMIN7/MDRUHULAMIN7/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MDRUHULAMIN7/MDRUHULAMIN7/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MDRUHULAMIN7/MDRUHULAMIN7/output/github-contribution-grid-snake.svg">
-</picture>
-
-<sub>💡 To enable the snake animation, set up the GitHub Action (see setup guide)</sub>
-
-</div>
-
----
-
-<div align="center">
-
 ## 🎮 Random Dev Meme
 
 <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder&qColor=%23667eea&aColor=%23f093fb" alt="Jokes Card" />
 
 </div>
-
----
 
 <div align="center">
 
@@ -263,6 +234,3 @@ console.log("Always learning, always building! 🎯");
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer" width="100%"/>
 
 </div>
-
-═════════════════════════════════════════════════════════════
--->
