@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Ruhul%20Amin&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Engineer%20%E2%80%A2%20LLM%20Automation%20%E2%80%A2%20Open%20to%20Opportunities&descAlignY=56&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Ruhul%20Amin&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Frontend%20Engineer%20%E2%80%A2%20MERN%20Stack%20%E2%80%A2%20LLM%20Automation%20%E2%80%A2%20Open%20to%20Opportunities&descAlignY=56&descSize=15" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=120&lines=Engineering+robust+systems+%F0%9F%94%A7;Automating+the+future+with+LLMs+%F0%9F%A4%96;MERN+%7C+TypeScript+%7C+AI+Tooling+%7C+Real-Time+Systems+%E2%9A%A1" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=120&lines=Frontend+Engineer+%7C+MERN+Stack+Developer+%F0%9F%92%BB;Building+scalable+UIs+%26+real-time+systems+%E2%9A%A1;Exploring+LLM+Automation+%26+AI+Integration+%F0%9F%A4%96" />
 
 <br/>
 
 <p>
   <img src="https://img.shields.io/badge/%F0%9F%93%8D%20Location-Rajshahi%2C%20Bangladesh-7c3aed?style=flat-square" />
   <img src="https://img.shields.io/badge/%F0%9F%92%BC%20Status-Open%20to%20Work-16a34a?style=flat-square" />
-  <img src="https://img.shields.io/badge/%F0%9F%8E%AF%20Focus-Full--Stack%20%2B%20LLM%20Automation-0ea5e9?style=flat-square" />
+  <img src="https://img.shields.io/badge/%F0%9F%8E%AF%20Focus-Frontend%20%2B%20LLM%20Automation-0ea5e9?style=flat-square" />
   <img src="https://img.shields.io/badge/%F0%9F%8E%93%20Diploma-CST%20%40%20RPI%20%E2%80%A2%202026-f59e0b?style=flat-square" />
 </p>
 
@@ -29,14 +29,15 @@
 
 ```typescript
 const ruhulAmin = {
-  role        : "Full-Stack Developer → Aspiring Senior Software Engineer",
-  stack       : ["TypeScript", "Node.js", "Express.js", "React", "Next.js", "MongoDB"],
-  currentWork : "RPI Polytechnic Management System (ERP) — RBAC, JWT, Socket.io",
-  learning    : ["LLM Automation & AI Tooling", "Advanced JavaScript Internals", "System Design"],
-  building    : ["AI-powered workflows", "Real-time systems", "Scalable REST APIs"],
+  role        : "Frontend Engineer | MERN Stack Developer | Next.js Developer",
+  aspiration  : "Aspiring Software Engineer",
+  stack       : ["TypeScript", "React", "Next.js", "Node.js", "Express.js", "MongoDB"],
+  currentWork : "RPI Polytechnic Management System — solo project, RBAC, JWT, Socket.io",
+  learning    : ["LLM Automation", "AI Integration", "Python", "System Design"],
+  building    : ["AI-powered UIs", "Real-time web apps", "Scalable REST APIs"],
   openTo      : ["Full-time roles", "Freelance", "Remote opportunities"],
   location    : "Rajshahi, Bangladesh 🇧🇩",
-  goal2026    : "Become an expert-level JS Engineer | Ship production-grade AI features",
+  goal2026    : "Become a software engineer who ships AI-integrated products 🚀",
 };
 ```
 
@@ -44,17 +45,16 @@ const ruhulAmin = {
 
 ## 🗺️ Engineering Roadmap — 2026
 
-> Where I am and where I'm headed ↓
-
 | Phase | Status | Focus Area |
 |---|---|---|
 | ✅ **Foundation** | Done | JavaScript, React, REST APIs, MongoDB |
 | ✅ **Backend Engineering** | Done | Express.js, TypeScript, JWT, RBAC, Cookie Auth |
-| 🔄 **JS Mastery** | Active · Day 13/60 | Execution context, closures, prototypes, event loop |
-| 🔄 **LLM & AI Tooling** | Active | Prompt engineering, Claude API, workflow automation |
+| ✅ **JS Mastery** | Done | Execution context, closures, prototypes, event loop |
+| 🔄 **LLM & AI Automation** | Active | Prompt engineering, LLM APIs, AI workflow design |
+| 🔄 **Python for AI** | Active | Scripting, automation, AI tooling with Python |
 | 🔄 **System Design** | In Progress | Scalability, data modeling, architecture patterns |
 | 📅 **Real-Time Systems** | Planned | Socket.io, WebSockets, notification infrastructure |
-| 📅 **Senior Engineering** | 2026 Target | Tech lead skills, code review, mentoring, OSS |
+| 📅 **Software Engineering** | 2026 Target | Architecture thinking, clean code, OSS contribution |
 
 ---
 
@@ -63,7 +63,7 @@ const ruhulAmin = {
 ### Core Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -74,19 +74,22 @@ const ruhulAmin = {
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![NextAuth.js](https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![ZegoCloud](https://img.shields.io/badge/ZegoCloud-0066FF?style=for-the-badge&logo=webrtc&logoColor=white)
 
 ### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-### 🤖 AI & Automation *(Currently Mastering)*
-![Claude API](https://img.shields.io/badge/Claude_API-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
-![LLM Automation](https://img.shields.io/badge/LLM_Automation-7c3aed?style=for-the-badge&logo=openai&logoColor=white)
+### 🤖 AI & LLM Integration *(Currently Learning)*
+![LLM APIs](https://img.shields.io/badge/LLM_API_Integration-7c3aed?style=for-the-badge&logo=openai&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0ea5e9?style=for-the-badge&logo=openai&logoColor=white)
-![AI Workflow](https://img.shields.io/badge/AI_Workflow_Design-16a34a?style=for-the-badge&logo=zapier&logoColor=white)
+![AI Automation](https://img.shields.io/badge/AI_Automation-16a34a?style=for-the-badge&logo=zapier&logoColor=white)
 
 ### Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -106,58 +109,54 @@ const ruhulAmin = {
 
 ### 🏛️ RPI Polytechnic Management System
 ![Status](https://img.shields.io/badge/Status-In%20Development-f59e0b?style=flat-square)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Solo](https://img.shields.io/badge/Solo%20Project-7c3aed?style=flat-square)
 
-Full-scale **Educational ERP** — semester enrollment, attendance tracking, notice board with real-time Socket.io distribution, RBAC with JWT cookie auth.
+Full-scale **Educational ERP** built solo — semester enrollment, attendance tracking, AI-powered notice board with real-time Socket.io distribution, RBAC, JWT cookie auth.
 
 **Tech:** Express.js · TypeScript · MongoDB · Socket.io · Next.js · Tailwind
 
-> Lead developer & architect of a 5-person team
-
-[🔗 Explore Repo →](https://github.com/MDRUHULAMIN7)
+[🔗 View on GitHub →](https://github.com/MDRUHULAMIN7)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🏊 DevDive — Developer Community Platform
-![Award](https://img.shields.io/badge/🏆-2nd%20Place%20Hackathon-16a34a?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Active-16a34a?style=flat-square)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js)
 
-Real-time developer community with video rooms (ZegoCloud), payment integration, and collaborative knowledge sharing.
+Real-time developer community with live video rooms via ZegoCloud, payment integration, and collaborative knowledge sharing.
 
 **Tech:** Next.js · Firebase · ZegoCloud · Stripe · TypeScript
 
-> 🥈 2nd place among 45 teams · Programming Hero Hackathon
-
-[🔗 View Project →](https://github.com/MDRUHULAMIN7/DevDive)
+[🔗 View on GitHub →](https://github.com/MDRUHULAMIN7/DevDive)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📝 BuddyScript — Social Feed API
+### 💍 SoulTie — Matrimony Platform
 ![Status](https://img.shields.io/badge/Status-Completed-16a34a?style=flat-square)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-Production-ready social feed REST API built as a **hiring task**. Implements cookie-based JWT, CRUD posts/comments, follow system, and clean layered architecture.
+Feature-rich matrimony web app with Stripe subscription payments, advanced profile filtering, and role-based access for admins and users.
 
-**Tech:** Express.js · TypeScript · MongoDB · Cookie Auth
+**Tech:** React · Node.js · MongoDB · Stripe · Tailwind
 
-[🔗 View Project →](https://github.com/MDRUHULAMIN7)
+[🔗 View on GitHub →](https://github.com/MDRUHULAMIN7)
 
 </td>
 <td width="50%" valign="top">
 
-### 💼 QuickHire — Job Board App
+### 🎨 Mahmud Portfolio
 ![Status](https://img.shields.io/badge/Status-Completed-16a34a?style=flat-square)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js)
 
-Full-featured job board built for a **technical assessment** with advanced filtering, TanStack Query v5 for server state, optimistic updates, and SSR.
+Clean, modern developer portfolio built for a client — smooth scroll animations, responsive layout, and optimized Lighthouse performance.
 
-**Tech:** Next.js · TanStack Query v5 · TypeScript · Tailwind
+**Tech:** Next.js · Tailwind CSS · Framer Motion
 
-[🔗 View Project →](https://github.com/MDRUHULAMIN7)
+[🔗 View on GitHub →](https://github.com/MDRUHULAMIN7)
 
 </td>
 </tr>
@@ -180,17 +179,17 @@ Full-featured job board built for a **technical assessment** with advanced filte
 
 ---
 
-## 🧠 Currently Mastering
+## 📖 Currently Learning
 
 ```
-📚 60-Day JavaScript Mastery Roadmap  ████████░░░░░░░░░░░░  Day 13 / 60
-   Execution Context → Closures → Prototypes → Event Loop → Async → Patterns
+🤖 LLM Automation & AI Integration   ████████░░░░░░░░░░░░  Active
+   LLM APIs · Prompt Engineering · AI Workflow Design · Claude API
 
-🤖 LLM & AI Automation               ████░░░░░░░░░░░░░░░░  Active
-   Claude API · Prompt Engineering · Structured Outputs · AI Workflow Design
+🐍 Python for AI & Automation        █████░░░░░░░░░░░░░░░  Active
+   Scripting · Automation · AI tooling
 
-🏗️  System Design                     ███░░░░░░░░░░░░░░░░░░  Active
-   Scalability · Data Modeling · Caching · Microservices Patterns
+🏗️  System Design                     ████░░░░░░░░░░░░░░░░░  In Progress
+   Scalability · Data Modeling · Architecture Patterns · Caching
 ```
 
 ---
@@ -201,12 +200,12 @@ Full-featured job board built for a **technical assessment** with advanced filte
 
 | 🏅 Achievement | 📌 Details |
 |---|---|
-| 🥈 Hackathon Runner-Up | 2nd of 45 teams — Programming Hero Capstone (DevDive) |
-| 🏗️ ERP Architect | Lead developer of RPI Polytechnic Management System |
-| 🔐 Hired for Production Task | BuddyScript API — submitted to Appifylab as hiring task |
-| 📓 JS Knowledge Base | Building structured Bangla JS notes for the community |
-| 🚀 6 Months Pro Experience | Frontend developer @ SparkTech Agency |
-| 📖 Self-Directed Learner | Joined Programming Hero 2024, intensive self-study track |
+| 🥈 Endgame Competition Runner-Up | 2nd of 45 teams — Programming Hero Capstone Project |
+| 🏗️ Solo ERP Developer | Architecting RPI Polytechnic Management System alone |
+| 💼 Professional Experience | Frontend Developer @ SparkTech Agency |
+| 🎓 Diploma in CST | Rajshahi Polytechnic Institute — Expected 2026 |
+| 🤖 AI Integration Explorer | Integrating LLM APIs & building automation workflows |
+| 📖 Self-Directed Learner | Intensive self-study track since Programming Hero 2024 |
 
 </div>
 
@@ -214,10 +213,10 @@ Full-featured job board built for a **technical assessment** with advanced filte
 
 ## 💡 Philosophy
 
-> *"I don't just write code — I engineer systems that solve real problems.  
-> Every project is a chance to learn deeper, build better, and ship faster."*
+> *"I don't just write code — I build interfaces that feel alive and systems that scale.  
+> Understanding the **why** before the **how** is what separates good engineers from great ones."*
 
-I believe in understanding the **why** before the **how** — studying JS internals, system design principles, and LLM behavior before reaching for the next framework. That's what separates engineers who maintain from those who **architect**.
+I believe in going deep — studying how JavaScript really works under the hood, how LLMs reason, and how systems fail at scale — before reaching for the next library. That depth is what I bring to every project.
 
 ---
 
@@ -247,7 +246,7 @@ I believe in understanding the **why** before the **how** — studying JS intern
 
 <br/>
 
-**Open for:** ✅ Full-time Roles &nbsp;•&nbsp; ✅ Remote Work &nbsp;•&nbsp; ✅ Freelance &nbsp;•&nbsp; ✅ Technical Collaborations &nbsp;•&nbsp; ✅ AI Integration Projects
+**Open for:** ✅ Full-time Roles &nbsp;•&nbsp; ✅ Remote Work &nbsp;•&nbsp; ✅ Freelance &nbsp;•&nbsp; ✅ AI Integration Projects &nbsp;•&nbsp; ✅ Technical Collaborations
 
 </div>
 
