@@ -53,7 +53,7 @@ const ruhulAmin = {
 | 🔄 **LLM & AI Automation** | Active | Prompt engineering, LLM APIs, AI workflow design |
 | 🔄 **Python for AI** | Active | Scripting, automation, AI tooling with Python |
 | 🔄 **System Design** | In Progress | Scalability, data modeling, architecture patterns |
-| 📅 **Real-Time Systems** | Planned | Socket.io, WebSockets, notification infrastructure |
+| 📅 **Real-Time Systems** | In Progress | Socket.io, WebSockets, notification infrastructure |
 | 📅 **Software Engineering** | 2026 Target | Architecture thinking, clean code, OSS contribution |
 
 ---
