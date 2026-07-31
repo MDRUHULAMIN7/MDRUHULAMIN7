@@ -170,14 +170,11 @@ Clean, modern developer portfolio built for a client — smooth scroll animation
 
 <img width="49%" src="https://streak-stats.demolab.com/?user=MDRUHULAMIN7&theme=transparent&hide_border=true&background=00000000&stroke=7c3aed&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=6b7280" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MDRUHULAMIN7&theme=transparent&hide_border=true&background=00000000&stroke=7c3aed&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=6b7280" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MDRUHULAMIN7&show_icons=true&theme=transparent&hide_border=true&title_color=a78bfa&icon_color=f59e0b&text_color=e5e7eb&bg_color=00000000" />
-
 <br/><br/>
 
 ### 🏆 Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDRUHULAMIN7&layout=compact&theme=transparent&hide_border=true&title_color=a78bfa&text_color=e5e7eb&bg_color=00000000&langs_count=8" width="420" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDRUHULAMIN7&layout=compact&theme=transparent&hide_border=true&title_color=a78bfa&text_color=e5e7eb&bg_color=00000000&langs_count=8&cache_seconds=86400" width="420" />
 
 </div>
 
