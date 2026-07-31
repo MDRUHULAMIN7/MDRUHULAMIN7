@@ -177,12 +177,6 @@ Clean, modern developer portfolio built for a client — smooth scroll animation
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDRUHULAMIN7&layout=compact&theme=transparent&hide_border=true&title_color=a78bfa&text_color=e5e7eb&bg_color=00000000&langs_count=8" width="420" />
 
-<br/><br/>
-
-### 📈 Contribution Timeline
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MDRUHULAMIN7&custom_title=Contribution%20Timeline&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f59e0b&area=true&hide_border=true&radius=16" width="100%"/>
-
 </div>
 
 ---
