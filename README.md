@@ -171,9 +171,17 @@ Clean, modern developer portfolio built for a client — smooth scroll animation
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MDRUHULAMIN7&theme=transparent&hide_border=true&background=00000000&stroke=7c3aed&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=6b7280" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MDRUHULAMIN7&show_icons=true&theme=transparent&hide_border=true&title_color=a78bfa&icon_color=f59e0b&text_color=e5e7eb&bg_color=00000000" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MDRUHULAMIN7&custom_title=Contribution%20Timeline&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f59e0b&area=true&hide_border=true" width="100%"/>
+### 🏆 Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDRUHULAMIN7&layout=compact&theme=transparent&hide_border=true&title_color=a78bfa&text_color=e5e7eb&bg_color=00000000&langs_count=8" width="420" />
+
+<br/><br/>
+
+### 📈 Contribution Timeline
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MDRUHULAMIN7&custom_title=Contribution%20Timeline&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f59e0b&area=true&hide_border=true&radius=16" width="100%"/>
 
 </div>
 
