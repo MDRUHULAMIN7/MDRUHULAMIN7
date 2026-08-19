@@ -164,7 +164,7 @@ Clean, modern developer portfolio built for a client — smooth scroll animation
 
 ---
 
-## 📊 GitHub Activity & Languages
+## 📊 GitHub Activity
 
 <div align="center">
 
